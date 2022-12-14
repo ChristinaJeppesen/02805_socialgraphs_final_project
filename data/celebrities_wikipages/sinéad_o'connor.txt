@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Portal:Characters/Categorized_Characters", "to": "Portal:Characters/Categorized Characters"}], "pages": {"-1": {"ns": 100, "title": "Portal:Characters/Categorized Characters", "missing": ""}}}}

@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Pharaoh_Of_Egypt", "to": "Pharaoh Of Egypt"}], "pages": {"-1": {"ns": 0, "title": "Pharaoh Of Egypt", "missing": ""}}}}

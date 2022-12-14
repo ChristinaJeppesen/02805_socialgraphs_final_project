@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Manuelo_Furnanda", "to": "Manuelo Furnanda"}], "pages": {"-1": {"ns": 0, "title": "Manuelo Furnanda", "missing": ""}}}}

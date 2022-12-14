@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Duck_President", "to": "Duck President"}], "pages": {"-1": {"ns": 0, "title": "Duck President", "missing": ""}}}}

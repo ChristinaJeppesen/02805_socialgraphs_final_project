@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Tupac_Shakur_Hologram", "to": "Tupac Shakur Hologram"}], "pages": {"-1": {"ns": 0, "title": "Tupac Shakur Hologram", "missing": ""}}}}

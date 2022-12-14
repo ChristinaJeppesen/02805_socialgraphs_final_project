@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Afro_Ninja", "to": "Afro Ninja"}], "pages": {"-1": {"ns": 0, "title": "Afro Ninja", "missing": ""}}}}

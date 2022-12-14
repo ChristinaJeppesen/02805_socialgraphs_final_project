@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Kurt_Cobain_Hologram", "to": "Kurt Cobain Hologram"}], "pages": {"-1": {"ns": 0, "title": "Kurt Cobain Hologram", "missing": ""}}}}

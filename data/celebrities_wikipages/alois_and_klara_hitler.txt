@@ -1,0 +1,1 @@
+{"batchcomplete": "", "query": {"normalized": [{"from": "Alois_And_Klara_Hitler", "to": "Alois And Klara Hitler"}], "pages": {"-1": {"ns": 0, "title": "Alois And Klara Hitler", "missing": ""}}}}
